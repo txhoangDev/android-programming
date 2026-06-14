@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "musicplayer.cs371m.musicplayer.app-mergeDebugResources-47:/layout/player_fragment.xml",
+        "source": "musicplayer.cs371m.musicplayer.app-main-50:/layout/player_fragment.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-mergeDebugResources-47:/layout/song_row.xml",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/layout/song_row.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-mergeDebugResources-47:/layout/player_fragment.xml",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/layout/player_fragment.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-mergeDebugResources-47:/layout/settings_fragment.xml",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/layout/settings_fragment.xml"
+    }
+]

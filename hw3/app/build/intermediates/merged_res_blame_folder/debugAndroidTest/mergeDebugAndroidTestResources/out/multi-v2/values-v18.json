@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "musicplayer.cs371m.musicplayer.test.app-mergeDebugAndroidTestResources-35:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/thuonghoang/.gradle/caches/9.1.0/transforms/a8db2f5d0dc3fd9cceae31e93885416e/transformed/appcompat-1.7.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                },
+                {
+                    "source": "/Users/thuonghoang/.gradle/caches/9.1.0/transforms/a3d05acb53b00da0dc8144714fc3d4fa/transformed/core-1.7.0/res/values-v18/values.xml",
+                    "from": {
+                        "startLines": "4,12",
+                        "startColumns": "0,0",
+                        "startOffsets": "146,562",
+                        "endLines": "11,19",
+                        "endColumns": "8,8",
+                        "endOffsets": "561,975"
+                    },
+                    "to": {
+                        "startLines": "3,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "104,524",
+                        "endLines": "10,18",
+                        "endColumns": "8,8",
+                        "endOffsets": "519,937"
+                    }
+                }
+            ]
+        }
+    ]
+}

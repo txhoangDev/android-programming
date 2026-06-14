@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/layout_activity_main.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/raw_whats_mine_excerpt.mp3.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/raw/whats_mine_excerpt.mp3"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/raw_big_digits_excerpt.mp3.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/raw/big_digits_excerpt.mp3"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/drawable_ic_pause_black_24dp.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/drawable/ic_pause_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/raw_debussy_la_fille_aux_cheveux_de_lin.mp3.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/raw/debussy_la_fille_aux_cheveux_de_lin.mp3"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/drawable_ic_play_arrow_black_24dp.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/drawable/ic_play_arrow_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/raw_cant_let_go.mp3.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/raw/cant_let_go.mp3"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/layout_settings_fragment.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/layout/settings_fragment.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/drawable_baseline_settings_24.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/drawable_ic_baseline_skip_next_24.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/drawable/ic_baseline_skip_next_24.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/layout_player_fragment.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/layout/player_fragment.xml"
+    },
+    {
+        "merged": "musicplayer.cs371m.musicplayer.app-debug-48:/layout_player_fragment.xml.flat",
+        "source": "musicplayer.cs371m.musicplayer.app-main-50:/layout/player_fragment.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/layout_song_row.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/layout/song_row.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/drawable_ic_shuffle_black_24dp.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/drawable/ic_shuffle_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/raw_base_after_base.mp3.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/raw/base_after_base.mp3"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/raw_dark_star_excerpt.mp3.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/raw/dark_star_excerpt.mp3"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/menu_player_menu.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/menu/player_menu.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/drawable_ic_baseline_skip_previous_24.xml.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/drawable/ic_baseline_skip_previous_24.xml"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-debug-48:/raw_rondo_alla_turca.mp3.flat",
+        "source": "/Users/thuonghoang/.gradle/daemon/9.1.0/musicplayer.cs371m.musicplayer.app-main-50:/raw/rondo_alla_turca.mp3"
+    }
+]

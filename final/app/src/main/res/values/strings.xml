@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RouteNest</string>
+    <string name="logo_description">RouteNest Logo</string>
+    <string name="add_trip">Add Trip</string>
+</resources>

@@ -1,0 +1,224 @@
+02-28 10:44:54.164 13098 13119 I TestRunner: started: clickClickNoPlay(musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest)
+02-28 10:44:54.167 13098 13119 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+02-28 10:44:54.169 13098 13098 D ViewRootImpl: Skipping stats log for color mode
+02-28 10:44:54.178  2573  2573 D RecentsView: onTaskRemoved: 353, not handling task stack changes
+02-28 10:44:54.178  2573  2573 D RecentsView: onTaskRemoved: 353, not handling task stack changes
+02-28 10:44:54.181   708  1844 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@5e29fd6c does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+02-28 10:44:54.182  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:54.185  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+02-28 10:44:54.185  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+02-28 10:44:54.186  2573  2573 W SplitSelectStateCtor: Missing session instanceIds
+02-28 10:44:54.186  2573  2573 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+02-28 10:44:54.192  2573  2573 D RecentsView: onTaskDisplayChanged: 355, new displayId = 0
+02-28 10:44:54.201   526   675 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+02-28 10:44:54.202 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@f62be40 in: PRE_ON_CREATE
+02-28 10:44:54.202 13098 13098 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+02-28 10:44:54.204  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:54.219  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:54.229 13098 13105 W MediaPlayer-JNI: MediaPlayer finalized without being released
+02-28 10:44:54.230   585   680 D NuPlayerDriver: reset(0xb4000074e1213ad0) at state 4
+02-28 10:44:54.230   585 13225 D NuPlayerDriver: notifyResetComplete(0xb4000074e1213ad0)
+02-28 10:44:54.239  2573  2573 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+02-28 10:44:54.259   585   680 D NuPlayerDriver: NuPlayerDriver(0xb4000074e12141d0) created, clientPid(13098)
+02-28 10:44:54.260   196   196 I hwservicemanager: getTransport: Cannot find entry android.hardware.media.omx@1.0::IOmx/default in either framework or device VINTF manifest.
+02-28 10:44:54.261   585   680 D MediaPlayerService: OMX service is not available
+02-28 10:44:54.275   585 13252 D GenericSource: FileSource remote
+02-28 10:44:54.280  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:54.285 13152 13152 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+02-28 10:44:54.297 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@f62be40 in: CREATED
+02-28 10:44:54.297 13098 13098 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@f62be40
+02-28 10:44:54.299 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@f62be40 in: STARTED
+02-28 10:44:54.299 13098 13098 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@f62be40
+02-28 10:44:54.299 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@f62be40 in: RESUMED
+02-28 10:44:54.299 13098 13098 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@f62be40
+02-28 10:44:54.301  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:54.312   575   575 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:54.312   575   575 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:54.317 13098 13098 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@7c9ffaf
+02-28 10:44:54.318 13098 13098 D VRI[MainActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+02-28 10:44:54.378   708   730 I ActivityTaskManager: Displayed musicplayer.cs371m.musicplayer/.MainActivity for user 0: +198ms
+02-28 10:44:54.396 13152 13152 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+02-28 10:44:54.397 13152 13152 D ViewRootImpl: Skipping stats log for color mode
+02-28 10:44:54.411   708   828 I ImeTracker: musicplayer.cs371m.musicplayer:84dbb8ac: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+02-28 10:44:54.415 13098 13098 I ImeTracker: musicplayer.cs371m.musicplayer:84dbb8ac: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+02-28 10:44:54.416  1509  1509 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2113
+02-28 10:44:54.416   708  2045 I ImeTracker: system_server:af83ae35: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+02-28 10:44:54.417  1509  1509 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+02-28 10:44:54.417   708   733 I ImeTracker: system_server:af83ae35: onCancelled at PHASE_SERVER_SHOULD_HIDE
+02-28 10:44:54.419  1509  1509 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1384 onStartInput(EditorInfo{EditorInfo{packageName=musicplayer.cs371m.musicplayer, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+02-28 10:44:54.426  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:54.426  2573  2573 D RecentsView: onTaskRemoved: 354, not handling task stack changes
+02-28 10:44:54.426  2573  2573 D RecentsView: onTaskRemoved: 354, not handling task stack changes
+02-28 10:44:54.429  1509  1509 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+02-28 10:44:54.433  2573  2592 W System  : A resource failed to call release.
+02-28 10:44:54.433  2573  2592 W System  : A resource failed to call release.
+02-28 10:44:54.433  2573  2592 W System  : A resource failed to call release.
+02-28 10:44:54.433  2573  2592 W System  : A resource failed to call HardwareBuffer.close.
+02-28 10:44:54.475  2573  2573 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+02-28 10:44:54.608  2573  2573 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+02-28 10:44:54.609   971  1233 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@144d72a
+02-28 10:44:54.622  2573  2573 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+02-28 10:44:54.627  2573  2573 D BaseActivity: Launcher flags updated: [] -[state_started]
+02-28 10:44:54.627  2573  2573 D BaseDepthController: setSurface:
+02-28 10:44:54.627  2573  2573 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+02-28 10:44:54.627  2573  2573 D BaseDepthController: 	mBaseSurface: null
+02-28 10:44:54.627  2573  2573 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+02-28 10:44:54.628  2573  2573 D LauncherStateManager: StateManager.goToState: fromState: Normal, toState: Normal, partial trace:
+02-28 10:44:54.628  2573  2573 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:6)
+02-28 10:44:54.628  2573  2573 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:2)
+02-28 10:44:54.628  2573  2573 D LauncherStateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:32)
+02-28 10:44:54.628  2573  2573 D LauncherStateManager: StateManager.onRepeatStateSetAborted: state: Normal
+02-28 10:44:54.628  2573  2573 D ActivityContext: hideKeyboard
+02-28 10:44:54.628  2573  2573 D ActivityContext: isImeShown: false
+02-28 10:44:54.628  2573  2573 D StatsLog: LAUNCHER_ONSTOP
+02-28 10:44:54.631  2573  2573 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+02-28 10:44:54.713   708   937 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+02-28 10:44:54.910 13098 13098 I ViewInteraction: Performing 'single click' action on view view.getContentDescription() to match resource id <2131886107>[action_settings] with value "Settings"
+02-28 10:44:54.960 13098 13098 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@254ce17
+02-28 10:44:54.962   708  1844 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+02-28 10:44:55.224 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230977/musicplayer.cs371m.musicplayer:id/loopSwitch>
+02-28 10:44:55.226 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "0"}' assertion on view view.getId() is <2131231066/musicplayer.cs371m.musicplayer:id/numberOfSongsPlayedValueText>
+02-28 10:44:55.228 13098 13098 I ViewInteraction: Performing 'send keyCode: 4, metaState: 0 key event' action on view view.getRootView() to equal view
+02-28 10:44:55.232  1509  1509 I StylusModule: StylusModule.onUpdateToolType():774 Update tool type = 0
+02-28 10:44:55.242 13098 13098 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@7c9ffaf
+02-28 10:44:55.395   971  1168 E FrameTracker: force finish cuj, time out: J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.395   971  1168 W FrameTracker: Missed SF frame:JANK_COMPOSER, 242596, 9883548, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.395   971  1168 W FrameTracker: Missed SF frame:JANK_COMPOSER, 242632, 6553798, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.395   971  1168 W FrameTracker: Missed SF frame:JANK_COMPOSER, 242675, 12222632, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.396   971  1168 W FrameTracker: Missed SF frame:JANK_COMPOSER, 242718, 5972133, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.396   971  1168 W FrameTracker: Missed SF frame:JANK_COMPOSER, 242754, 13551467, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.396   971  1168 W FrameTracker: Missed App frame:UNKNOWN: 3, 242891, 33399261, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.396   971  1168 W FrameTracker: Missed SF frame:UNKNOWN: 3, 242891, 33399261, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.396   971  1168 W FrameTracker: Missed SF frame:JANK_COMPOSER, 242927, 29190762, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.396   971  1168 W FrameTracker: Missed SF frame:JANK_COMPOSER, 242970, 27403513, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.396   971  1168 W FrameTracker: Missed SF frame:JANK_COMPOSER, 242992, 10739305, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.396   971  1168 W FrameTracker: Missed SF frame:JANK_COMPOSER, 243028, 9514972, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.396   971  1168 W FrameTracker: Missed SF frame:JANK_COMPOSER, 243093, 14248265, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.396   971  1168 W FrameTracker: Missed App frame:UNKNOWN: 3, 243122, 57450391, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.396   971  1168 W FrameTracker: Missed SF frame:UNKNOWN: 3, 243122, 57450391, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+02-28 10:44:55.425 13098 13098 I KeyEventActionBase: Back was pressed but there was no Activity stage transition in 150ms. Pressing back may trigger an activity stage transition if the activity is finished as a result. However, the activity may handle the back behavior in any number of other ways internally as well, such as popping the fragment back stack, dismissing a dialog, otherwise manually transacting fragments, etc.
+02-28 10:44:55.459 13098 13098 I ViewInteraction: Performing 'actionOnItemAtPosition performing ViewAction: single click on item at position: 3' action on view view.getId() is <2131231108/musicplayer.cs371m.musicplayer:id/playerRV>
+02-28 10:44:55.523   708  1844 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+02-28 10:44:55.524   585   585 D NuPlayerDriver: reset(0xb4000074e12141d0) at state 4
+02-28 10:44:55.525   585 13251 D NuPlayerDriver: notifyResetComplete(0xb4000074e12141d0)
+02-28 10:44:55.526   585   680 D NuPlayerDriver: reset(0xb4000074e12141d0) at state 0
+02-28 10:44:55.526 13098 13098 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+02-28 10:44:55.526 13098 13098 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+02-28 10:44:55.527 13098 13098 E MediaPlayerNative: Attempt to call getDuration in wrong state: mPlayer=0x0, mCurrentState=1
+02-28 10:44:55.527 13098 13098 E MediaPlayerNative: error (-38, 0)
+02-28 10:44:55.528 13098 13098 E MediaPlayerNative: Attempt to call getDuration in wrong state: mPlayer=0x0, mCurrentState=0
+02-28 10:44:55.529 13098 13098 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+02-28 10:44:55.529 13098 13098 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+02-28 10:44:55.534   585   585 D NuPlayerDriver: NuPlayerDriver(0xb4000074e1213ad0) created, clientPid(13098)
+02-28 10:44:55.535   196   196 I hwservicemanager: getTransport: Cannot find entry android.hardware.media.omx@1.0::IOmx/default in either framework or device VINTF manifest.
+02-28 10:44:55.535   585   585 D MediaPlayerService: OMX service is not available
+02-28 10:44:55.537   585 13258 D GenericSource: FileSource remote
+02-28 10:44:55.550 13098 13098 W MediaPlayer: mediaplayer went away with unhandled events
+02-28 10:44:55.777 13098 13098 I ViewInteraction: Performing 'actionOnItemAtPosition performing ViewAction: single click on item at position: 1' action on view view.getId() is <2131231108/musicplayer.cs371m.musicplayer:id/playerRV>
+02-28 10:44:55.836   708  3144 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+02-28 10:44:55.837   585   680 D NuPlayerDriver: reset(0xb4000074e1213ad0) at state 4
+02-28 10:44:55.837   585 13257 D NuPlayerDriver: notifyResetComplete(0xb4000074e1213ad0)
+02-28 10:44:55.839   585   585 D NuPlayerDriver: reset(0xb4000074e1213ad0) at state 0
+02-28 10:44:55.840 13098 13098 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+02-28 10:44:55.840 13098 13098 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+02-28 10:44:55.841 13098 13098 E MediaPlayerNative: Attempt to call getDuration in wrong state: mPlayer=0x0, mCurrentState=1
+02-28 10:44:55.841 13098 13098 E MediaPlayerNative: error (-38, 0)
+02-28 10:44:55.841 13098 13098 E MediaPlayerNative: Attempt to call getDuration in wrong state: mPlayer=0x0, mCurrentState=0
+02-28 10:44:55.841 13098 13098 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+02-28 10:44:55.841 13098 13098 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+02-28 10:44:55.844   585   680 D NuPlayerDriver: NuPlayerDriver(0xb4000074e12141d0) created, clientPid(13098)
+02-28 10:44:55.844   196   196 I hwservicemanager: getTransport: Cannot find entry android.hardware.media.omx@1.0::IOmx/default in either framework or device VINTF manifest.
+02-28 10:44:55.845   585   680 D MediaPlayerService: OMX service is not available
+02-28 10:44:55.846   585 13262 D GenericSource: FileSource remote
+02-28 10:44:55.856 13098 13098 W MediaPlayer: mediaplayer went away with unhandled events
+02-28 10:44:55.942   708   862 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+02-28 10:44:56.077 13098 13098 I ViewInteraction: Performing 'single click' action on view view.getContentDescription() to match resource id <2131886107>[action_settings] with value "Settings"
+02-28 10:44:56.125 13098 13098 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@254ce17
+02-28 10:44:56.126   708  1844 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+02-28 10:44:56.393 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230977/musicplayer.cs371m.musicplayer:id/loopSwitch>
+02-28 10:44:56.398 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "0"}' assertion on view view.getId() is <2131231066/musicplayer.cs371m.musicplayer:id/numberOfSongsPlayedValueText>
+02-28 10:44:56.406   708  1844 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@5fded60b does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+02-28 10:44:56.415 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@f62be40 in: PAUSED
+02-28 10:44:56.415 13098 13098 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@f62be40
+02-28 10:44:56.418   526   675 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+02-28 10:44:56.423  2573  2573 D RecentsView: onTaskDisplayChanged: 356, new displayId = 0
+02-28 10:44:56.428 13152 13168 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+02-28 10:44:56.431 13152 13168 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+02-28 10:44:56.433   575   575 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:56.433   575   575 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:56.459  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:56.459  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:56.462 13152 13168 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+02-28 10:44:56.470 13152 13168 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+02-28 10:44:56.494 13152 13152 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@90b228b
+02-28 10:44:56.494 13152 13152 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+02-28 10:44:56.500  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:56.545  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:56.546   708   730 I ActivityTaskManager: Displayed musicplayer.cs371m.musicplayer.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +143ms
+02-28 10:44:56.569  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:56.578  2573  2573 D ViewRootImpl: Skipping stats log for color mode
+02-28 10:44:56.580  2573  2573 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+02-28 10:44:56.581  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+02-28 10:44:56.586  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+02-28 10:44:56.587  2573  2573 D StatsLog: LAUNCHER_ONRESUME
+02-28 10:44:56.592  2573  2615 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+02-28 10:44:56.594  2573  2573 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+02-28 10:44:56.598   971  1233 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@144d72a
+02-28 10:44:56.600  2573  2573 D BaseDepthController: setSurface:
+02-28 10:44:56.600  2573  2573 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+02-28 10:44:56.600  2573  2573 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#1813)/@0x57c4275
+02-28 10:44:56.601  2573  2573 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#1813)/@0x57c4275 applyImmediately: false
+02-28 10:44:56.601  2573  2573 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{da6220a V.ED..... .......D 0,0-1080,2400 #7f0a049d app:id/workspace}, com.android.launcher3.Hotseat{bd7ba7b V.ED..... .......D 0,1905-1080,2400 #7f0a01ee app:id/hotseat}]
+02-28 10:44:56.615   526   619 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+02-28 10:44:56.626  4070  4083 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+02-28 10:44:56.626  4070  4083 I AiAiEcho: EchoTargets:
+02-28 10:44:56.626  4070  4083 I AiAiEcho: Filtered by AiAi flag check:
+02-28 10:44:56.626  4070  4083 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+02-28 10:44:56.627  4070  4083 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+02-28 10:44:56.627  4070  4083 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+02-28 10:44:56.639  2573  2573 D SsBaseTemplateCard: Passed-in item info is null
+02-28 10:44:56.642  2573  2573 D SsBaseTemplateCard: Passed-in item info is null
+02-28 10:44:56.642  2573  2573 D SsBaseTemplateCard: Passed-in item info is null
+02-28 10:44:56.642  2573  2573 D SsBaseTemplateCard: Passed-in item info is null
+02-28 10:44:56.642  2573  2573 I SsBaseTemplateCard: Secondary card pane is null
+02-28 10:44:56.670 13098 13098 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+02-28 10:44:56.684  2573  2573 D LauncherStateManager: StateManager.cancelAnimation: animation ongoing: false, partial trace:
+02-28 10:44:56.684  2573  2573 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.setCurrentAnimation(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:18)
+02-28 10:44:56.684  2573  2573 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:646)
+02-28 10:44:56.684  2573  2573 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:96)
+02-28 10:44:56.685  2573  2573 D LauncherStateManager: StateManager.createAtomicAnimation: fromState: Normal, toState: Normal, partial trace:
+02-28 10:44:56.685  2573  2573 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:20)
+02-28 10:44:56.685  2573  2573 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:11)
+02-28 10:44:56.685  2573  2573 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:683)
+02-28 10:44:56.685  2573  2573 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+02-28 10:44:56.686  2573  2573 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+02-28 10:44:56.691  2573  2573 D b/311077782: LauncherAnimationRunner.setAnimation
+02-28 10:44:56.696  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+02-28 10:44:56.700   708   828 I ImeTracker: com.google.android.apps.nexuslauncher:95325997: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+02-28 10:44:56.701 13098 13105 W MediaPlayer-JNI: MediaPlayer finalized without being released
+02-28 10:44:56.707  2573  2573 I ImeTracker: com.google.android.apps.nexuslauncher:95325997: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+02-28 10:44:56.712 13098 13098 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@7c9ffaf
+02-28 10:44:56.712 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@f62be40 in: STOPPED
+02-28 10:44:56.712 13098 13098 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@f62be40
+02-28 10:44:56.713  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:56.713   585   680 D NuPlayerDriver: reset(0xb4000074e1214010) at state 5
+02-28 10:44:56.717  1509  1509 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2113
+02-28 10:44:56.717   708  1004 I ImeTracker: system_server:83f3a659: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+02-28 10:44:56.718 13098 13098 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+02-28 10:44:56.718   708   733 I ImeTracker: system_server:83f3a659: onCancelled at PHASE_SERVER_SHOULD_HIDE
+02-28 10:44:56.722  1509  1509 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+02-28 10:44:56.725  1509  1509 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1384 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+02-28 10:44:56.730   585 13244 D CCodecBuffers: [c2.android.mp3.decoder#289:1D-Output.Impl[N]] Client returned a buffer it does not own according to our record: 0
+02-28 10:44:56.730   585 13244 D CCodecBuffers: [c2.android.mp3.decoder#289:1D-Output.Impl[N]] Client returned a buffer it does not own according to our record: 1
+02-28 10:44:56.730   585 13244 D CCodecBuffers: [c2.android.mp3.decoder#289:1D-Output.Impl[N]] Client returned a buffer it does not own according to our record: 2
+02-28 10:44:56.731  1509  1509 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+02-28 10:44:56.732   585 13244 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+02-28 10:44:56.737   588  1458 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+02-28 10:44:56.739   588  1458 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+02-28 10:44:56.741   588 13245 D BufferPoolAccessor2.0: Destruction - bufferpool2 0xb40000706c6110f8 cached: 0/0M, 0/0% in use; allocs: 0, 0% recycled; transfers: 0, 0% unfetched
+02-28 10:44:56.745   708  1844 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 28
+02-28 10:44:56.746   585 13236 D NuPlayerDriver: notifyResetComplete(0xb4000074e1214010)
+02-28 10:44:56.747   585   680 D AudioTrack: stop(28): called with 0 frames delivered
+02-28 10:44:56.751 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@f62be40 in: DESTROYED
+02-28 10:44:56.751 13098 13098 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+02-28 10:44:56.753 13098 13119 I TestRunner: finished: clickClickNoPlay(musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest)

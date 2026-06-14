@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest" tests="11" failures="0" errors="0" skipped="0" time="36.019" timestamp="2026-02-28T16:45:15" hostname="localhost">
+  <properties>
+    <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="clickSong" classname="musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest" time="4.379" />
+  <testcase name="playPause" classname="musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest" time="2.291" />
+  <testcase name="initialSongInfo" classname="musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest" time="1.144" />
+  <testcase name="slider" classname="musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest" time="4.1" />
+  <testcase name="cancelLoopButton" classname="musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest" time="2.607" />
+  <testcase name="playOne" classname="musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest" time="2.438" />
+  <testcase name="clickClickNoPlay" classname="musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest" time="2.595" />
+  <testcase name="startPlayClickPause" classname="musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest" time="2.024" />
+  <testcase name="UI" classname="musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest" time="1.132" />
+  <testcase name="list" classname="musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest" time="1.3" />
+  <testcase name="loop" classname="musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest" time="-1.772297103977E9" />
+</testsuite>

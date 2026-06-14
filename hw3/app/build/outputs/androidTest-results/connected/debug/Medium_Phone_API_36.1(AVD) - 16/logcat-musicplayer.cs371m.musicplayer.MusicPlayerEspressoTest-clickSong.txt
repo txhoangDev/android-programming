@@ -1,0 +1,273 @@
+02-28 10:44:37.092 13098 13119 I TestRunner: started: clickSong(musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest)
+02-28 10:44:37.100 13098 13119 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+02-28 10:44:37.103 13098 13119 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+02-28 10:44:37.127   708  1853 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@5e29fd6c does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+02-28 10:44:37.164  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+02-28 10:44:37.166  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+02-28 10:44:37.167  2573  2573 W SplitSelectStateCtor: Missing session instanceIds
+02-28 10:44:37.167  2573  2573 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+02-28 10:44:37.188  2573  2573 D RecentsView: onTaskDisplayChanged: 343, new displayId = 0
+02-28 10:44:37.219  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:37.232  2573  2573 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+02-28 10:44:37.274   575 12782 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:37.275   575 12782 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:37.307   708  1853 W ParceledListSlice: Element #26 is 19924 bytes.
+02-28 10:44:37.308   708  1853 W ParceledListSlice: Element #27 is 20104 bytes.
+02-28 10:44:37.343   526   620 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+02-28 10:44:37.352   708  3250 W ParceledListSlice: Element #28 is 20316 bytes.
+02-28 10:44:37.352   708  3250 W ParceledListSlice: Element #29 is 19828 bytes.
+02-28 10:44:37.368  4070  4094 I AiAiEcho: EchoSearch: WidgetFetcherImpl is initialized with [33] widgets [reason=package added for userId: 0]
+02-28 10:44:37.371  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:37.403 13098 13098 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+02-28 10:44:37.446 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@d279493 in: PRE_ON_CREATE
+02-28 10:44:37.448   708  4763 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+02-28 10:44:37.448 13098 13098 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+02-28 10:44:37.462 13098 13121 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+02-28 10:44:37.462 13098 13121 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+02-28 10:44:37.466   708  4763 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+02-28 10:44:37.487 13098 13121 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+02-28 10:44:37.487 13098 13121 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+02-28 10:44:37.490   708  4763 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+02-28 10:44:37.505  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:37.507   708  4763 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+02-28 10:44:37.665  1704  1711 W gle.android.gms: Suspending all threads took: 49.071ms
+02-28 10:44:37.703  1704 13076 I Icing   : Indexing done com.google.android.gms-apps
+02-28 10:44:37.753   708   862 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+02-28 10:44:37.830 13125 13125 W libbinder.BackendUnifiedServiceManager: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: package
+02-28 10:44:37.851 13098 13098 D AudioSystem: onNewServiceWithAdapter: media.audio_flinger service obtained 0xb400006ec2a32320
+02-28 10:44:37.867 13098 13098 D AudioSystem: getService: IAudioFlingerService retrieved: 0xb400006fe2a125a0  IAudioFlinger cached: 0xb400006ec2a32320
+02-28 10:44:38.240  2573  2573 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+02-28 10:44:38.241   971  1233 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@144d72a
+02-28 10:44:38.260  2573  2573 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+02-28 10:44:38.329   585   585 D NuPlayerDriver: NuPlayerDriver(0xb4000074e1215a50) created, clientPid(13098)
+02-28 10:44:38.340   196   196 I hwservicemanager: getTransport: Cannot find entry android.hardware.media.omx@1.0::IOmx/default in either framework or device VINTF manifest.
+02-28 10:44:38.341   585   585 D MediaPlayerService: OMX service is not available
+02-28 10:44:38.372   585 13131 D GenericSource: FileSource remote
+02-28 10:44:38.476 13098 13098 D CompatChangeReporter: Compat change id reported: 377864165; UID 10245; state: ENABLED
+02-28 10:44:38.477 13098 13098 D DesktopExperienceFlags: Toggle override initialized to: false
+02-28 10:44:38.478 13098 13098 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+02-28 10:44:38.532  1704 13076 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+02-28 10:44:38.560 13098 13098 I 71m.musicplayer: hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app, TargetSdkVersion=36) using reflection: allowed
+02-28 10:44:38.578 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@d279493 in: CREATED
+02-28 10:44:38.580 13098 13098 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@d279493
+02-28 10:44:38.609  1810  7398 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~zgIYCXeJSyjma0FhPJKYcw==/com.google.android.gms-wpkVioIjR8puTrnyFkiS7A==/oat/arm64/base.odex) is kOatUpToDate with filter 'speed-profile' executable 'false'
+02-28 10:44:38.618  1810  7398 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~zgIYCXeJSyjma0FhPJKYcw==/com.google.android.gms-wpkVioIjR8puTrnyFkiS7A==/oat/arm64/split_AdsDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+02-28 10:44:38.620 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@d279493 in: STARTED
+02-28 10:44:38.620 13098 13098 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@d279493
+02-28 10:44:38.623  1810  7398 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~zgIYCXeJSyjma0FhPJKYcw==/com.google.android.gms-wpkVioIjR8puTrnyFkiS7A==/oat/arm64/split_CronetDynamite_installtime.odex) is kOatUpToDate with filter 'speed-profile' executable 'false'
+02-28 10:44:38.637  1810  7398 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~zgIYCXeJSyjma0FhPJKYcw==/com.google.android.gms-wpkVioIjR8puTrnyFkiS7A==/oat/arm64/split_DynamiteLoader_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+02-28 10:44:38.647  1810  7398 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~zgIYCXeJSyjma0FhPJKYcw==/com.google.android.gms-wpkVioIjR8puTrnyFkiS7A==/oat/arm64/split_DynamiteModulesA_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+02-28 10:44:38.656  1810  7398 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~zgIYCXeJSyjma0FhPJKYcw==/com.google.android.gms-wpkVioIjR8puTrnyFkiS7A==/oat/arm64/split_DynamiteModulesC_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+02-28 10:44:38.661 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@d279493 in: RESUMED
+02-28 10:44:38.663  1810  7398 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~zgIYCXeJSyjma0FhPJKYcw==/com.google.android.gms-wpkVioIjR8puTrnyFkiS7A==/oat/arm64/split_GoogleCertificates_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+02-28 10:44:38.664 13098 13098 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@d279493
+02-28 10:44:38.667  1810  7398 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~zgIYCXeJSyjma0FhPJKYcw==/com.google.android.gms-wpkVioIjR8puTrnyFkiS7A==/oat/arm64/split_MapsDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+02-28 10:44:38.677  1810  7398 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~zgIYCXeJSyjma0FhPJKYcw==/com.google.android.gms-wpkVioIjR8puTrnyFkiS7A==/oat/arm64/split_MeasurementDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+02-28 10:44:38.684  1810  7398 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~zgIYCXeJSyjma0FhPJKYcw==/com.google.android.gms-wpkVioIjR8puTrnyFkiS7A==/oat/arm64/split_all_locale_splits.odex) is kOatUpToDate with filter 'speed' executable 'false'
+02-28 10:44:38.692  1810  7398 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000001/CronetDynamite.apk has no usable artifacts
+02-28 10:44:38.692  1810  7398 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000002/DynamiteLoader.apk has no usable artifacts
+02-28 10:44:38.694  1810  7398 I artd    : GetBestInfo: /data/user/0/com.google.android.gms/app_dg_cache/A1442E7AF072B496CCB2C7DF6A5CEECC73356BBA/the.apk has no usable artifacts
+02-28 10:44:38.701  1810  7398 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk has no usable artifacts
+02-28 10:44:38.703  1810  7398 I artd    : GetBestInfo: /data/user/0/com.google.android.gms/app_dg_cache/4346EA85CDA1436041B029D54013FBB1AA13E134/the.apk has no usable artifacts
+02-28 10:44:38.707  1810  7398 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000b/dl-VisionOcr.optional_255034100000.apk has no usable artifacts
+02-28 10:44:38.710  1810  7398 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000a/dl-MlkitBarcodeUi.optional_255034100400.apk has no usable artifacts
+02-28 10:44:38.712 13098 13098 W HWUI    : Unknown dataspace 0
+02-28 10:44:38.727  1810  7398 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000009/dl-TfliteDynamiteDynamite.integ_243930802100400.apk has no usable artifacts
+02-28 10:44:38.731  1810  7398 I artd    : GetBestInfo: /data/user/0/com.google.android.gms/app_dg_cache/2DB167EF440159FF365B49D8B91441B1CFD017F9/the.apk has no usable artifacts
+02-28 10:44:38.737  1704 13076 I Icing   : Indexing done com.google.android.gms-apps
+02-28 10:44:38.741  1810  7398 I artd    : GetBestInfo: vdex next to the dex file (/data/user/0/com.google.android.gms/app_dg_cache/5F3BE511026BE02395273329794ABD31B995290B/oat/arm64/the.vdex) is kOatUpToDate with filter 'verify' executable 'false'
+02-28 10:44:38.742  1810  7398 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000f/dl-Appsearch.optional_255034100400.apk has no usable artifacts
+02-28 10:44:38.749  1810  7398 I artd    : GetBestInfo: vdex next to the dex file (/data/user/0/com.google.android.gms/app_dg_cache/9B790551AEA6F45286C19831BDC04308DF1AFF9F/oat/arm64/the.vdex) is kOatUpToDate with filter 'verify' executable 'false'
+02-28 10:44:38.758  1810  7398 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000010/dl-PlayCloudSearch.optional_255034100000.apk has no usable artifacts
+02-28 10:44:38.761  1810  7399 I artd    : GetBestInfo: vdex next to the dex file (/data/user/0/com.google.android.gms/app_dg_cache/7D5C9405A3D81C422016C0CF22E38A12D08182E8/oat/arm64/the.vdex) is kOatUpToDate with filter 'verify' executable 'false'
+02-28 10:44:38.765  1810  7399 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000c/dl-MlkitOcrCommon.optional_255034100400.apk has no usable artifacts
+02-28 10:44:38.772  1810  7399 I artd    : GetBestInfo: /data/user/0/com.google.android.gms/app_dg_cache/646DA7BE3AF9B756DEFD88CA7189FC9D7C55EC0F/the.apk has no usable artifacts
+02-28 10:44:38.773  1810  7398 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000013/dl-TfliteDynamiteDynamite.integ_252130102100400.apk has no usable artifacts
+02-28 10:44:38.776  1810  7398 W artd    : Could not get dex checksums for location /data/app/~~IbdXQQVmlSXfX4NeZyeq2w==/com.android.vending-94hn_tvI8dXcf5SbtVA3uw==/base.apk, fd=-1
+02-28 10:44:38.782 13098 13098 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@56bd24b
+02-28 10:44:38.786 13098 13098 D VRI[MainActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+02-28 10:44:38.786  2442  4302 W libbinder.Binder: Binder transaction to android.content.IContentProvider code 21 took 5845ms. Data bytes: 504 Reply bytes: 456 Flags: 18
+02-28 10:44:38.787  2573  2664 D WellbeingModel: ....actionId: pause, packages: musicplayer.cs371m.musicplayer
+02-28 10:44:38.787  2573  2664 I WellbeingModel: retrieveActions(): finished
+02-28 10:44:38.787  2573  2664 D WellbeingModel: Changes in apps: intent = [Intent { act=android.intent.action.PACKAGE_ADDED dat=package: flg=0x4000010 (has extras) }]
+02-28 10:44:38.788  2573  2664 I WellbeingModel: updateActionsWithRetry(); retryCount: 0, package: musicplayer.cs371m.musicplayer.test
+02-28 10:44:38.788  2573  2664 D WellbeingModel: retrieveActions() called with: packageNames = [musicplayer.cs371m.musicplayer.test]
+02-28 10:44:38.792 13098 13098 I HWUI    : Using FreeType backend (prop=Auto)
+02-28 10:44:38.836  2573  2664 D WellbeingModel: ....actionId: pause, packages: musicplayer.cs371m.musicplayer.test
+02-28 10:44:38.836  2573  2664 I WellbeingModel: retrieveActions(): finished
+02-28 10:44:38.874  1704 13076 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+02-28 10:44:38.917   526   675 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10245 pid=0
+02-28 10:44:38.918   526   675 D libbinder.PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10245 => denied (256 us)
+02-28 10:44:38.918   526   675 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10245 pid=0
+02-28 10:44:38.918   526   675 D libbinder.PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10245 => denied (320 us)
+02-28 10:44:38.918   526   619 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10245 pid=13098
+02-28 10:44:38.918   526   619 D libbinder.PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10245 => denied (47 us)
+02-28 10:44:38.918   526   675 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10245 pid=0
+02-28 10:44:38.918   526   675 D libbinder.PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10245 => denied (629 us)
+02-28 10:44:38.932  1704 13076 I Icing   : Indexing done com.google.android.gms-apps
+02-28 10:44:38.948  1704 13076 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+02-28 10:44:38.949  1704 13076 I Icing   : Indexing done com.google.android.gms-apps
+02-28 10:44:38.953  1704 13076 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+02-28 10:44:38.966  1704 13076 I Icing   : Indexing done com.google.android.gms-apps
+02-28 10:44:39.060   708  1853 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10245 pid=0
+02-28 10:44:39.060   708  1853 D libbinder.PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10245 => denied (336 us)
+02-28 10:44:39.060   708  1853 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10245 pid=0
+02-28 10:44:39.060   708  1853 D libbinder.PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10245 => denied (17 us)
+02-28 10:44:39.060   708  1853 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10245 pid=0
+02-28 10:44:39.060   708  1853 D libbinder.PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10245 => denied (23 us)
+02-28 10:44:39.091   708   730 I ActivityTaskManager: Displayed musicplayer.cs371m.musicplayer/.MainActivity for user 0: +1s976ms
+02-28 10:44:39.165   708   828 I ImeTracker: musicplayer.cs371m.musicplayer:6c8d78f4: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+02-28 10:44:39.187 13098 13098 I ImeTracker: musicplayer.cs371m.musicplayer:6c8d78f4: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+02-28 10:44:39.217  1509  1509 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2113
+02-28 10:44:39.220  2573  2573 D BaseActivity: Launcher flags updated: [] -[state_started]
+02-28 10:44:39.220  2573  2573 D BaseDepthController: setSurface:
+02-28 10:44:39.220  2573  2573 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+02-28 10:44:39.220  2573  2573 D BaseDepthController: 	mBaseSurface: null
+02-28 10:44:39.220  2573  2573 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+02-28 10:44:39.223  2573  2573 D LauncherStateManager: StateManager.goToState: fromState: Normal, toState: Normal, partial trace:
+02-28 10:44:39.223  2573  2573 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:6)
+02-28 10:44:39.223  2573  2573 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:2)
+02-28 10:44:39.223  2573  2573 D LauncherStateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:32)
+02-28 10:44:39.226   708  1853 I ImeTracker: system_server:f9506903: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+02-28 10:44:39.226  2573  2573 D LauncherStateManager: StateManager.onRepeatStateSetAborted: state: Normal
+02-28 10:44:39.227  2573  2573 D ActivityContext: hideKeyboard
+02-28 10:44:39.228   708   733 I ImeTracker: system_server:f9506903: onCancelled at PHASE_SERVER_SHOULD_HIDE
+02-28 10:44:39.252  1509  1509 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+02-28 10:44:39.253  1509  1509 W NotificationCenter: NotificationCenter$NotificationQueue.notifyPendingNotificationsOnExecutor():877 Heavy notify work detected on UI thread: [mul->kpu, mul->kpu, mul->glg, mul->kpu, mul->krx, mul->kpu, mul->kpu, mul->kpu, mul->kpu, mul->kpu, mul->hmz, mul->mte, mul->kpu, mul->okf, mul->kpu, mul->oyp, mul->knd, mul->god, mul->lxh, mul->iet, mul->kpu, mul->kpu, mul->mtn, mul->kpu] takes 34ms
+02-28 10:44:39.257  1383  3603 I FontLog : (REDACTED) Received query %s, URI %s
+02-28 10:44:39.259  1383  3603 I FontLog : (REDACTED) Query [%s] resolved to %s
+02-28 10:44:39.264  1509  1509 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1384 onStartInput(EditorInfo{EditorInfo{packageName=musicplayer.cs371m.musicplayer, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+02-28 10:44:39.265  2573  2573 D ActivityContext: isImeShown: false
+02-28 10:44:39.268  2573  2573 D StatsLog: LAUNCHER_ONSTOP
+02-28 10:44:39.269  1509  1509 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+02-28 10:44:39.285  1383  3603 I FontLog : (REDACTED) Fetch %s end status %s
+02-28 10:44:39.295  2573  2573 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+02-28 10:44:39.297  1383  3603 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+02-28 10:44:39.328  1383  3603 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+02-28 10:44:39.358   708   719 I system_server: Background young concurrent mark compact GC freed 17MB AllocSpace bytes, 3(56KB) LOS objects, 37% free, 39MB/63MB, paused 8.289ms,1.963ms total 592.312ms
+02-28 10:44:39.389   575 12782 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:39.389   575 12782 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:39.593 13098 13119 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+02-28 10:44:39.602 13098 13119 I 71m.musicplayer: hiddenapi: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/action/Tap; (domain=app, TargetSdkVersion=36) using reflection: allowed
+02-28 10:44:39.609 13098 13098 I ViewInteraction: Performing 'actionOnItemAtPosition performing ViewAction: single click on item at position: 2' action on view view.getId() is <2131231108/musicplayer.cs371m.musicplayer:id/playerRV>
+02-28 10:44:39.652 13098 13144 I 71m.musicplayer: hiddenapi: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/internal/platform/reflect/ReflectiveMethod; (domain=app, TargetSdkVersion=36) using reflection: allowed
+02-28 10:44:39.712   585   585 D NuPlayerDriver: reset(0xb4000074e1215a50) at state 4
+02-28 10:44:39.715   585 13130 D NuPlayerDriver: notifyResetComplete(0xb4000074e1215a50)
+02-28 10:44:39.716   708  1853 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+02-28 10:44:39.716   585   585 D NuPlayerDriver: reset(0xb4000074e1215a50) at state 0
+02-28 10:44:39.718 13098 13098 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+02-28 10:44:39.718 13098 13098 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+02-28 10:44:39.719 13098 13098 E MediaPlayerNative: Attempt to call getDuration in wrong state: mPlayer=0x0, mCurrentState=1
+02-28 10:44:39.719 13098 13098 E MediaPlayerNative: error (-38, 0)
+02-28 10:44:39.719 13098 13098 E MediaPlayerNative: Attempt to call getDuration in wrong state: mPlayer=0x0, mCurrentState=0
+02-28 10:44:39.719 13098 13098 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+02-28 10:44:39.719 13098 13098 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+02-28 10:44:39.749   585   585 D NuPlayerDriver: NuPlayerDriver(0xb4000074e1217650) created, clientPid(13098)
+02-28 10:44:39.751   196   196 I hwservicemanager: getTransport: Cannot find entry android.hardware.media.omx@1.0::IOmx/default in either framework or device VINTF manifest.
+02-28 10:44:39.751   585   585 D MediaPlayerService: OMX service is not available
+02-28 10:44:39.759   585 13150 D GenericSource: FileSource remote
+02-28 10:44:39.798 13098 13098 W MediaPlayer: mediaplayer went away with unhandled events
+02-28 10:44:39.919 13098 13102 I 71m.musicplayer: Compiler allocated 5145KB to compile void android.view.ViewRootImpl.performTraversals()
+02-28 10:44:40.045 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "La Fille Aux Cheveux De Lin"}' assertion on view view.getId() is <2131231103/musicplayer.cs371m.musicplayer:id/playerCurrentSongText>
+02-28 10:44:40.070   708  3250 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@5fded60b does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+02-28 10:44:40.108   575 12782 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:40.108   575 12782 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:40.114  2573  2573 D RecentsView: onTaskDisplayChanged: 344, new displayId = 0
+02-28 10:44:40.128   526   619 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+02-28 10:44:40.133 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@d279493 in: PAUSED
+02-28 10:44:40.133 13098 13098 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@d279493
+02-28 10:44:40.146   708   733 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@5fded60b does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+02-28 10:44:40.173  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:40.190   475   475 D Zygote  : Forked child process 13152
+02-28 10:44:40.225 13152 13152 I Zygote  : Process 13152 created for musicplayer.cs371m.musicplayer.test
+02-28 10:44:40.228 13152 13152 I usicplayer.test: Late-enabling -Xcheck:jni
+02-28 10:44:40.446 13152 13152 I usicplayer.test: Using CollectorTypeCMC GC.
+02-28 10:44:40.473   539   570 I adbd    : jdwp connection from 13152
+02-28 10:44:40.478   194   194 I lowmemorykiller: Kill 'com.google.android.apps.safetyhub' (2977), uid 10156, oom_score_adj 975 to free 73464kB rss, 42740kB swap, 0kB dmabuf_pss, 0kB dmabuf_rss; reason: low watermark is breached
+02-28 10:44:40.518  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:40.546  3344  3354 W ding:background: Suspending all threads took: 9.555ms
+02-28 10:44:40.684  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:40.726 13152 13152 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+02-28 10:44:40.856   708   746 I libprocessgroup: Removed cgroup /sys/fs/cgroup/apps/uid_10156/pid_2977
+02-28 10:44:40.869   475   475 I Zygote  : Process 2977 exited due to signal 9 (Killed)
+02-28 10:44:40.882   708   862 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+02-28 10:44:40.935  1106  1212 D SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+02-28 10:44:40.944   708  1853 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:40.950  1106  1212 D SatelliteController: getCarrierRoamingNtnConnectType: Falling back to global carrier config connect type: 0
+02-28 10:44:41.080 13152 13152 D nativeloader: Configuring clns-9 for other apk /data/app/~~QmQvK_HZYhMwYcaY8ho0IA==/musicplayer.cs371m.musicplayer.test-KURhhccL7LHnN8JE96A94Q==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~QmQvK_HZYhMwYcaY8ho0IA==/musicplayer.cs371m.musicplayer.test-KURhhccL7LHnN8JE96A94Q==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/musicplayer.cs371m.musicplayer.test
+02-28 10:44:41.096 13152 13152 V GraphicsEnvironment: Currently set values for:
+02-28 10:44:41.096 13152 13152 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+02-28 10:44:41.096 13152 13152 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+02-28 10:44:41.096 13152 13152 V GraphicsEnvironment: musicplayer.cs371m.musicplayer.test is not listed in per-application setting
+02-28 10:44:41.097 13152 13152 V GraphicsEnvironment: ANGLE allowlist from config: com.dreamgames.royalmatch com.dts.freefiremax com.dxx.firenow com.gramgames.mergedragons com.ludo.king com.mojang.minecraftpe com.my.defense com.nintendo.zaka com.os.airforce com.playrix.fishdomdd.gplay io.teslatech.callbreak jp.konami.prospia net.peakgames.toonblast
+02-28 10:44:41.097 13152 13152 V GraphicsEnvironment: No special selections for ANGLE, returning default driver choice
+02-28 10:44:41.097 13152 13152 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+02-28 10:44:41.149 13152 13152 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+02-28 10:44:41.169 13152 13168 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+02-28 10:44:41.170 13152 13168 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+02-28 10:44:41.177 13152 13152 D CompatChangeReporter: Compat change id reported: 377864165; UID 10246; state: ENABLED
+02-28 10:44:41.177 13152 13152 D DesktopExperienceFlags: Toggle override initialized to: false
+02-28 10:44:41.177 13152 13152 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+02-28 10:44:41.203 13152 13168 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+02-28 10:44:41.208 13152 13168 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+02-28 10:44:41.230 13152 13152 W HWUI    : Unknown dataspace 0
+02-28 10:44:41.239 13152 13152 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@2a30359
+02-28 10:44:41.240 13152 13152 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+02-28 10:44:41.250   526   676 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10246 pid=0
+02-28 10:44:41.250   526   676 D libbinder.PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10246 => denied (99 us)
+02-28 10:44:41.251   526   676 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10246 pid=0
+02-28 10:44:41.251   526   676 D libbinder.PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10246 => denied (206 us)
+02-28 10:44:41.251   526   676 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10246 pid=0
+02-28 10:44:41.251   526   676 D libbinder.PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10246 => denied (39 us)
+02-28 10:44:41.281   526   956 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+02-28 10:44:41.283   708  1853 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10246 pid=0
+02-28 10:44:41.283   708  1853 D libbinder.PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10246 => denied (553 us)
+02-28 10:44:41.283   708  1853 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10246 pid=0
+02-28 10:44:41.283   708  1853 D libbinder.PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10246 => denied (49 us)
+02-28 10:44:41.283   708  1853 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10246 pid=0
+02-28 10:44:41.283   708  1853 D libbinder.PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10246 => denied (19 us)
+02-28 10:44:41.291   708   730 I ActivityTaskManager: Displayed musicplayer.cs371m.musicplayer.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +1s235ms
+02-28 10:44:41.301  2573  2573 D ViewRootImpl: Skipping stats log for color mode
+02-28 10:44:41.301  2573  2573 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+02-28 10:44:41.302  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+02-28 10:44:41.308  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+02-28 10:44:41.309  2573  2573 D StatsLog: LAUNCHER_ONRESUME
+02-28 10:44:41.319  2573  2615 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+02-28 10:44:41.319  2573  2573 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+02-28 10:44:41.335  2573  2573 D BaseDepthController: setSurface:
+02-28 10:44:41.335  2573  2573 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+02-28 10:44:41.335  2573  2573 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#1559)/@0x57c4275
+02-28 10:44:41.335  2573  2573 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#1559)/@0x57c4275 applyImmediately: false
+02-28 10:44:41.335  2573  2573 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{da6220a V.ED..... .......D 0,0-1080,2400 #7f0a049d app:id/workspace}, com.android.launcher3.Hotseat{bd7ba7b V.ED..... .......D 0,1905-1080,2400 #7f0a01ee app:id/hotseat}]
+02-28 10:44:41.378  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:41.378   971  1233 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@144d72a
+02-28 10:44:41.382  4070  4083 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+02-28 10:44:41.391  4070  4083 I AiAiEcho: EchoTargets:
+02-28 10:44:41.391  4070  4083 I AiAiEcho: Filtered by AiAi flag check:
+02-28 10:44:41.391  4070  4083 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+02-28 10:44:41.391  4070  4083 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+02-28 10:44:41.400  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:41.401 13098 13098 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+02-28 10:44:41.402  4070  4083 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+02-28 10:44:41.410  2573  2573 D SsBaseTemplateCard: Passed-in item info is null
+02-28 10:44:41.411  2573  2573 D SsBaseTemplateCard: Passed-in item info is null
+02-28 10:44:41.411  2573  2573 D SsBaseTemplateCard: Passed-in item info is null
+02-28 10:44:41.411  2573  2573 D SsBaseTemplateCard: Passed-in item info is null
+02-28 10:44:41.411  2573  2573 I SsBaseTemplateCard: Secondary card pane is null
+02-28 10:44:41.459 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@d279493 in: STOPPED
+02-28 10:44:41.461 13098 13098 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@d279493
+02-28 10:44:41.462 13098 13098 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+02-28 10:44:41.472  2573  2573 D LauncherStateManager: StateManager.cancelAnimation: animation ongoing: false, partial trace:
+02-28 10:44:41.472  2573  2573 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.setCurrentAnimation(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:18)
+02-28 10:44:41.472  2573  2573 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:646)
+02-28 10:44:41.472  2573  2573 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:96)
+02-28 10:44:41.472  2573  2573 D LauncherStateManager: StateManager.createAtomicAnimation: fromState: Normal, toState: Normal, partial trace:
+02-28 10:44:41.472  2573  2573 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:20)
+02-28 10:44:41.472  2573  2573 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:11)
+02-28 10:44:41.472  2573  2573 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:683)
+02-28 10:44:41.472  2573  2573 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+02-28 10:44:41.472  2573  2573 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+02-28 10:44:41.473  2573  2573 D b/311077782: LauncherAnimationRunner.setAnimation
+02-28 10:44:41.481 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@d279493 in: DESTROYED
+02-28 10:44:41.481 13098 13098 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+02-28 10:44:41.485 13098 13119 I TestRunner: finished: clickSong(musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest)

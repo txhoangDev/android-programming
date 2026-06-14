@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767550079707",
+    "project_id": "fir-auth-demo-ab50f",
+    "storage_bucket": "fir-auth-demo-ab50f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767550079707:android:2216108abbbb4b3bccc2fe",
+        "android_client_info": {
+          "package_name": "edu.utap.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIuPqR9N9UfztS9aHGwa3WdovNxMsEC1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

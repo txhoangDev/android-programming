@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303993191840",
+    "project_id": "routenest-eaa9d",
+    "storage_bucket": "routenest-eaa9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303993191840:android:8453191127d6d1008e78c5",
+        "android_client_info": {
+          "package_name": "edu.cs371m.routenest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG0aPIlSsDJKmlpKI24Cun87r0fj5zs18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

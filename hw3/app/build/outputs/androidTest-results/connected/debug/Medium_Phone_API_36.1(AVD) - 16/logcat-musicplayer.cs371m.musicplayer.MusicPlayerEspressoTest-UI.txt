@@ -1,0 +1,199 @@
+02-28 10:44:58.784 13098 13119 I TestRunner: started: UI(musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest)
+02-28 10:44:58.791 13098 13098 D ViewRootImpl: Skipping stats log for color mode
+02-28 10:44:58.792   708   828 I ImeTracker: com.google.android.apps.nexuslauncher:dc42ae76: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+02-28 10:44:58.795 13098 13119 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+02-28 10:44:58.799   708  1004 I ImeTracker: system_server:11e92f2c: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+02-28 10:44:58.810  2573  2573 I ImeTracker: com.google.android.apps.nexuslauncher:dc42ae76: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+02-28 10:44:58.817   708   733 I ImeTracker: system_server:11e92f2c: onCancelled at PHASE_SERVER_SHOULD_HIDE
+02-28 10:44:58.827   708   785 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@5e29fd6c does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+02-28 10:44:58.827  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:58.827  2573  2573 D RecentsView: onTaskRemoved: 357, not handling task stack changes
+02-28 10:44:58.827  2573  2573 D RecentsView: onTaskRemoved: 357, not handling task stack changes
+02-28 10:44:58.847  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+02-28 10:44:58.848  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+02-28 10:44:58.849  2573  2573 W SplitSelectStateCtor: Missing session instanceIds
+02-28 10:44:58.849  2573  2573 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+02-28 10:44:58.857  2573  2573 D RecentsView: onTaskDisplayChanged: 359, new displayId = 0
+02-28 10:44:58.859  1509  1509 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2113
+02-28 10:44:58.863   526   675 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+02-28 10:44:58.864  1509  1509 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+02-28 10:44:58.865  1509  1509 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1384 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+02-28 10:44:58.865   708   785 I ImeTracker: system_server:ee8ab7b0: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+02-28 10:44:58.869  1509  1509 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+02-28 10:44:58.882 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@4b86d34 in: PRE_ON_CREATE
+02-28 10:44:58.882 13098 13098 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+02-28 10:44:58.884   708   733 I ImeTracker: system_server:ee8ab7b0: onCancelled at PHASE_SERVER_SHOULD_HIDE
+02-28 10:44:58.900  2573  2573 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+02-28 10:44:58.901  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:58.901  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:58.925   585   680 D NuPlayerDriver: NuPlayerDriver(0xb4000074e1213ad0) created, clientPid(13098)
+02-28 10:44:58.928   196   196 I hwservicemanager: getTransport: Cannot find entry android.hardware.media.omx@1.0::IOmx/default in either framework or device VINTF manifest.
+02-28 10:44:58.930   585   680 D MediaPlayerService: OMX service is not available
+02-28 10:44:58.936   585 13291 D GenericSource: FileSource remote
+02-28 10:44:58.961   708   862 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+02-28 10:44:58.965  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:58.980  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:58.984 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@4b86d34 in: CREATED
+02-28 10:44:58.984 13098 13098 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@4b86d34
+02-28 10:44:58.987 13152 13152 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+02-28 10:44:58.995 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@4b86d34 in: STARTED
+02-28 10:44:58.996 13098 13098 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@4b86d34
+02-28 10:44:58.997 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@4b86d34 in: RESUMED
+02-28 10:44:58.999 13098 13098 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@4b86d34
+02-28 10:44:59.006 13098 13098 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@d66be31
+02-28 10:44:59.010 13098 13098 D VRI[MainActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+02-28 10:44:59.033   575   575 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:59.033   575   575 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:59.079   708   730 I ActivityTaskManager: Displayed musicplayer.cs371m.musicplayer/.MainActivity for user 0: +262ms
+02-28 10:44:59.090  2573  2573 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+02-28 10:44:59.096   708   828 I ImeTracker: musicplayer.cs371m.musicplayer:2537199c: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+02-28 10:44:59.098 13098 13098 I ImeTracker: musicplayer.cs371m.musicplayer:2537199c: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+02-28 10:44:59.099  1509  1509 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2113
+02-28 10:44:59.099   708  3144 I ImeTracker: system_server:c0c2720: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+02-28 10:44:59.100   708   733 I ImeTracker: system_server:c0c2720: onCancelled at PHASE_SERVER_SHOULD_HIDE
+02-28 10:44:59.100  1509  1509 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+02-28 10:44:59.101  1509  1509 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1384 onStartInput(EditorInfo{EditorInfo{packageName=musicplayer.cs371m.musicplayer, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+02-28 10:44:59.101  1509  1509 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+02-28 10:44:59.130 13152 13152 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+02-28 10:44:59.132 13152 13152 D ViewRootImpl: Skipping stats log for color mode
+02-28 10:44:59.137  2573  2573 D RecentsView: onTaskRemoved: 358, not handling task stack changes
+02-28 10:44:59.146  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:59.148  2573  2573 D RecentsView: onTaskRemoved: 358, not handling task stack changes
+02-28 10:44:59.199  2573  2592 W System  : A resource failed to call release.
+02-28 10:44:59.199  2573  2592 W System  : A resource failed to call release.
+02-28 10:44:59.199  2573  2592 W System  : A resource failed to call release.
+02-28 10:44:59.199  2573  2592 W System  : A resource failed to call release.
+02-28 10:44:59.199  2573  2592 W System  : A resource failed to call release.
+02-28 10:44:59.303   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.303   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.311  2573  2573 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+02-28 10:44:59.311   971  1233 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@144d72a
+02-28 10:44:59.315   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.315   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.315   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.316   971   978 W System  : A resource failed to call release.
+02-28 10:44:59.317   708   937 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+02-28 10:44:59.324  2573  2573 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+02-28 10:44:59.332  2573  2573 D BaseActivity: Launcher flags updated: [] -[state_started]
+02-28 10:44:59.332  2573  2573 D BaseDepthController: setSurface:
+02-28 10:44:59.332  2573  2573 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+02-28 10:44:59.332  2573  2573 D BaseDepthController: 	mBaseSurface: null
+02-28 10:44:59.332  2573  2573 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+02-28 10:44:59.333  2573  2573 D LauncherStateManager: StateManager.goToState: fromState: Normal, toState: Normal, partial trace:
+02-28 10:44:59.333  2573  2573 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:6)
+02-28 10:44:59.333  2573  2573 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:2)
+02-28 10:44:59.333  2573  2573 D LauncherStateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:32)
+02-28 10:44:59.333  2573  2573 D LauncherStateManager: StateManager.onRepeatStateSetAborted: state: Normal
+02-28 10:44:59.333  2573  2573 D ActivityContext: hideKeyboard
+02-28 10:44:59.333  2573  2573 D ActivityContext: isImeShown: false
+02-28 10:44:59.333  2573  2573 D StatsLog: LAUNCHER_ONSTOP
+02-28 10:44:59.333  2573  2573 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+02-28 10:44:59.606 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231064/musicplayer.cs371m.musicplayer:id/nowPlayingText>
+02-28 10:44:59.613 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231103/musicplayer.cs371m.musicplayer:id/playerCurrentSongText>
+02-28 10:44:59.615 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231055/musicplayer.cs371m.musicplayer:id/nextUpText>
+02-28 10:44:59.617 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231105/musicplayer.cs371m.musicplayer:id/playerNextSongText>
+02-28 10:44:59.618 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231108/musicplayer.cs371m.musicplayer:id/playerRV>
+02-28 10:44:59.619 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230976/musicplayer.cs371m.musicplayer:id/loopIndicator>
+02-28 10:44:59.620 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231110/musicplayer.cs371m.musicplayer:id/playerSkipBackButton>
+02-28 10:44:59.622 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231107/musicplayer.cs371m.musicplayer:id/playerPlayPauseButton>
+02-28 10:44:59.624 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231111/musicplayer.cs371m.musicplayer:id/playerSkipForwardButton>
+02-28 10:44:59.626 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231106/musicplayer.cs371m.musicplayer:id/playerPermuteButton>
+02-28 10:44:59.627 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231109/musicplayer.cs371m.musicplayer:id/playerSeekBar>
+02-28 10:44:59.628 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231112/musicplayer.cs371m.musicplayer:id/playerTimePassedText>
+02-28 10:44:59.629 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231113/musicplayer.cs371m.musicplayer:id/playerTimeRemainingText>
+02-28 10:44:59.630 13098 13098 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getContentDescription() to match resource id <2131886107>[action_settings] with value "Settings"
+02-28 10:44:59.633   708  1844 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@5fded60b does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+02-28 10:44:59.644 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@4b86d34 in: PAUSED
+02-28 10:44:59.644 13098 13098 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@4b86d34
+02-28 10:44:59.646 13152 13168 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+02-28 10:44:59.646 13152 13168 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+02-28 10:44:59.653  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:59.653  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:59.653  2573  2573 D RecentsView: onTaskDisplayChanged: 360, new displayId = 0
+02-28 10:44:59.665 13152 13168 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+02-28 10:44:59.666 13152 13168 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+02-28 10:44:59.669   526   619 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+02-28 10:44:59.680   575   575 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:59.680   575   575 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+02-28 10:44:59.692 13152 13152 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@59375d1
+02-28 10:44:59.692 13152 13152 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+02-28 10:44:59.726  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:59.726  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:59.726   526   619 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+02-28 10:44:59.728   708   730 I ActivityTaskManager: Displayed musicplayer.cs371m.musicplayer.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +85ms
+02-28 10:44:59.731  2573  2573 D ViewRootImpl: Skipping stats log for color mode
+02-28 10:44:59.731  2573  2573 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+02-28 10:44:59.731  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+02-28 10:44:59.732  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+02-28 10:44:59.732  2573  2573 D StatsLog: LAUNCHER_ONRESUME
+02-28 10:44:59.733  2573  2615 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+02-28 10:44:59.735  4070  4083 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+02-28 10:44:59.735  4070  4083 I AiAiEcho: EchoTargets:
+02-28 10:44:59.735  4070  4083 I AiAiEcho: Filtered by AiAi flag check:
+02-28 10:44:59.735  4070  4083 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+02-28 10:44:59.735  4070  4083 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+02-28 10:44:59.736  4070  4083 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+02-28 10:44:59.739  2573  2573 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+02-28 10:44:59.750  2573  2573 D BaseDepthController: setSurface:
+02-28 10:44:59.750  2573  2573 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+02-28 10:44:59.750  2573  2573 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#1897)/@0x57c4275
+02-28 10:44:59.750  2573  2573 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#1897)/@0x57c4275 applyImmediately: false
+02-28 10:44:59.750  2573  2573 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{da6220a V.ED..... .......D 0,0-1080,2400 #7f0a049d app:id/workspace}, com.android.launcher3.Hotseat{bd7ba7b V.ED..... .......D 0,1905-1080,2400 #7f0a01ee app:id/hotseat}]
+02-28 10:44:59.780   971  1233 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@144d72a
+02-28 10:44:59.798  2573  2573 D SsBaseTemplateCard: Passed-in item info is null
+02-28 10:44:59.798  2573  2573 D SsBaseTemplateCard: Passed-in item info is null
+02-28 10:44:59.798  2573  2573 D SsBaseTemplateCard: Passed-in item info is null
+02-28 10:44:59.798  2573  2573 D SsBaseTemplateCard: Passed-in item info is null
+02-28 10:44:59.798  2573  2573 I SsBaseTemplateCard: Secondary card pane is null
+02-28 10:44:59.829 13098 13105 W MediaPlayer-JNI: MediaPlayer finalized without being released
+02-28 10:44:59.829   585  2158 D NuPlayerDriver: reset(0xb4000074e1214010) at state 6
+02-28 10:44:59.835   585 13283 D CCodecBuffers: [c2.android.mp3.decoder#368:1D-Output.Impl[N]] Client returned a buffer it does not own according to our record: 0
+02-28 10:44:59.835   585 13283 D CCodecBuffers: [c2.android.mp3.decoder#368:1D-Output.Impl[N]] Client returned a buffer it does not own according to our record: 1
+02-28 10:44:59.845   585 13283 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+02-28 10:44:59.845   588  1457 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+02-28 10:44:59.846   588  1457 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+02-28 10:44:59.857   585 13275 D NuPlayerDriver: notifyResetComplete(0xb4000074e1214010)
+02-28 10:44:59.858   588 13284 D BufferPoolAccessor2.0: Destruction - bufferpool2 0xb40000706c6110f8 cached: 0/0M, 0/0% in use; allocs: 0, 0% recycled; transfers: 0, 0% unfetched
+02-28 10:44:59.860   585  2158 W AMessage: failed to post message as target looper for handler 0 is gone.
+02-28 10:44:59.867  2573  2573 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+02-28 10:44:59.874 13098 13098 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+02-28 10:44:59.883  2573  2573 D LauncherStateManager: StateManager.cancelAnimation: animation ongoing: false, partial trace:
+02-28 10:44:59.883  2573  2573 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.setCurrentAnimation(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:18)
+02-28 10:44:59.883  2573  2573 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:646)
+02-28 10:44:59.883  2573  2573 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:96)
+02-28 10:44:59.883  2573  2573 D LauncherStateManager: StateManager.createAtomicAnimation: fromState: Normal, toState: Normal, partial trace:
+02-28 10:44:59.883  2573  2573 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:20)
+02-28 10:44:59.883  2573  2573 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:11)
+02-28 10:44:59.883  2573  2573 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:683)
+02-28 10:44:59.884  2573  2573 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+02-28 10:44:59.884  2573  2573 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+02-28 10:44:59.884  2573  2573 D b/311077782: LauncherAnimationRunner.setAnimation
+02-28 10:44:59.897  2573  2573 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+02-28 10:44:59.898 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@4b86d34 in: STOPPED
+02-28 10:44:59.898 13098 13098 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=musicplayer.cs371m.musicplayer.MainActivity@4b86d34
+02-28 10:44:59.900   708   828 I ImeTracker: com.google.android.apps.nexuslauncher:ce690631: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+02-28 10:44:59.901  2573  2573 I ImeTracker: com.google.android.apps.nexuslauncher:ce690631: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+02-28 10:44:59.903 13098 13098 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+02-28 10:44:59.908  1509  1509 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2113
+02-28 10:44:59.911 13098 13098 D LifecycleMonitor: Lifecycle status change: musicplayer.cs371m.musicplayer.MainActivity@4b86d34 in: DESTROYED
+02-28 10:44:59.911 13098 13098 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+02-28 10:44:59.912 13098 13119 I TestRunner: finished: UI(musicplayer.cs371m.musicplayer.MusicPlayerEspressoTest)
