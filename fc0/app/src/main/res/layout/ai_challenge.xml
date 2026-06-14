@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- For this project file, I used Gemini Pro model to generate the results -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+                <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="4dp">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="8sp"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="4dp">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ABC" android:textSize="8sp" android:textColor="#555"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="2" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="4dp">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="DEF" android:textSize="8sp" android:textColor="#555"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="3" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+                <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="4dp">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="GHI" android:textSize="8sp" android:textColor="#555"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="4" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="4dp">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="JKL" android:textSize="8sp" android:textColor="#555"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="5" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="4dp">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="MNO" android:textSize="8sp" android:textColor="#555"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="6" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+                <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="4dp">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="PQRS" android:textSize="8sp" android:textColor="#555"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="7" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="4dp">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TUV" android:textSize="8sp" android:textColor="#555"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="8" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="4dp">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="WXYZ" android:textSize="8sp" android:textColor="#555"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="9" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+                <View android:layout_width="50dp" android:layout_height="45dp" android:visibility="invisible" android:layout_margin="4dp"/>
+
+                <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="4dp">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="+" android:textSize="8sp" android:textColor="#555"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                </LinearLayout>
+
+                <View android:layout_width="50dp" android:layout_height="45dp" android:visibility="invisible" android:layout_margin="4dp"/>
+            </LinearLayout>
+        </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="#FAFAFA"
+                android:padding="5dp">
+
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="8sp"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ABC" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="2" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="DEF" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="3" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="GHI" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="4" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="JKL" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="5" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="MNO" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="6" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="PQRS" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="7" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TUV" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="8" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="WXYZ" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="9" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+                    <View android:layout_width="50dp" android:layout_height="45dp" android:visibility="invisible" android:layout_margin="2dp"/>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="+" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <View android:layout_width="50dp" android:layout_height="45dp" android:visibility="invisible" android:layout_margin="2dp"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="#FAFAFA"
+                android:padding="5dp">
+
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="8sp"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ABC" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="2" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="DEF" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="3" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="GHI" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="4" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="JKL" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="5" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="MNO" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="6" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="PQRS" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="7" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TUV" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="8" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="WXYZ" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="9" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+                    <View android:layout_width="50dp" android:layout_height="45dp" android:visibility="invisible" android:layout_margin="2dp"/>
+                    <LinearLayout android:layout_width="50dp" android:layout_height="45dp" android:background="#E0E0E0" android:gravity="center" android:orientation="vertical" android:layout_margin="2dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="+" android:textSize="8sp" android:textColor="#555"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0" android:textSize="16sp" android:textStyle="bold" android:textColor="#000"/>
+                    </LinearLayout>
+                    <View android:layout_width="50dp" android:layout_height="45dp" android:visibility="invisible" android:layout_margin="2dp"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
